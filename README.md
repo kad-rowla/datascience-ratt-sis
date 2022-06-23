@@ -1,4 +1,4 @@
-# Data Science Team: GeoJSON
+## SIS Students: Linked Data Transformation
 
 In order to be able to publish linked data to an online data catalog, RATT must first be configured.  This is done with the following steps:
 
